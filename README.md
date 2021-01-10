@@ -1,4 +1,4 @@
-The VIVO X21UD (codenamed _"PD1728"_) is a mid-range smartphone from Xiaomi announced in January 2019.
+The VIVO X21UD (codenamed _"PD1728"_) is a mid-range smartphone from Vivo announced in 2018.
 
 ## Device specifications
 
