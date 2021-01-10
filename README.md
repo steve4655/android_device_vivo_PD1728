@@ -13,7 +13,7 @@ The VIVO X21UD (codenamed _"PD1728"_) is a mid-range smartphone from Vivo announ
 | MicroSD                 | Up to 256 GB                                                  |
 | Battery                 | Non-removable Li-Po 4000 mAh                                  |
 | Dimensions              | 154.5 x 74.8 x 7.4 mm (6.08 x 2.94 x 0.29 in) mm              |
-| Display                 | 2228 x 1080 (19:5:9), 6.3 inch                                |
+| Display                 | 2280 x 1080 (19:5:9), 6.3 inch                                |
 | Rear camera 1           | 12 MP, f/1.8, 1/2.55", 1.4µm, dual pixel PDAF (Indian/Global) |
 | Rear camera 2           | 5 MP, f/2.4,  depth sensor                                    |
 | Front camera            | 12 MP, f/2.0, (wide), 1/2.8", 1.28µm                          |
