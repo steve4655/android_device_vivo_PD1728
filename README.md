@@ -2,7 +2,7 @@ The VIVO X21UD (codenamed _"PD1728"_) is a mid-range smartphone from Vivo announ
 
 ## Device specifications
 
-| Device                  | Xiaomi Redmi Note 7                                           |
+| Device                  | Vivo X21UD.                                                   |
 | ----------------------- | :------------------------------------------------------------ |
 | SoC                     | Qualcomm SDM660 Snapdragon 660                                |
 | CPU                     | 8x Qualcomm® Kryo™ 260 CPU up to 1.8GHz                       |
