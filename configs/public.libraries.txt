@@ -3,4 +3,6 @@ libadsprpc.so
 libcdsprpc.so
 libsdsprpc.so
 libqvrservice_client.so
+libtzcom.so
+libfastcvopt.so
 libOpenCL.so

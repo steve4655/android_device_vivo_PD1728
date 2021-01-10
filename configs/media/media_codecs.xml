@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- Copyright (C) 2012-2018 The Linux Foundation. All rights reserved.
+<!-- Copyright (C) 2012-2017 The Linux Foundation. All rights reserved.
      Not a contribution.
 
      Copyright (C) 2012-2013 The Android Open Source Project
@@ -124,7 +124,6 @@ Only the three quirks included above are recognized at this point:
 -->
 
 <MediaCodecs>
-    <!--Include href="media_codecs_vivo_audio.xml" / -->
     <Include href="media_codecs_google_audio.xml" />
     <Include href="media_codecs_google_telephony.xml" />
     <Settings>
@@ -193,6 +192,11 @@ Only the three quirks included above are recognized at this point:
         </MediaCodec>
     </Encoders>
     <Decoders>
+        <!-- Audio Hardware  -->
+        <!-- Audio Software  -->
+        <MediaCodec name="OMX.qti.audio.decoder.flac" type="audio/flac" >
+            <Limit name="concurrent-instances" max="10" />
+        </MediaCodec>
         <!-- Video Hardware  -->
         <MediaCodec name="OMX.qcom.video.decoder.avc" type="video/avc" >
             <Quirk name="requires-allocate-on-input-ports" />
@@ -379,5 +383,4 @@ Only the three quirks included above are recognized at this point:
         </MediaCodec>
     </Decoders>
     <Include href="media_codecs_google_video.xml" />
-    <!--Include href="media_codecs_vivo_video.xml" / -->
 </MediaCodecs>
