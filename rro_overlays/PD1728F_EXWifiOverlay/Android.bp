@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "PD1728F_EXWifiOverlay",
+    theme: "PD1728F_EXWifiOverlay",
+    sdk_version: "current",
+    product_specific: true
+}
